@@ -1,5 +1,5 @@
 {
-  "name": "net.tnrd.nsubstitute",
+  "name": "com.editor.unity3d.nsubstitute",
   "displayName": "NSubstitute",
   "version": "4.2.2",
   "unity": "2019.1",
@@ -12,11 +12,13 @@
     "unit",
     "unit test",
     "unit tests",
-    "unit testing"
+    "unit testing",
+    "unity3d",
+    "nsubstitute"
   ],
   "author": {
-    "name": "Christiaan Bloemendaal",
-    "email": "unity3d@tnrd.net",
-    "url": "https://www.tnrd.net"
+    "name": "Roman Fedorov",
+    "email": "studentutu@gmail.com",
+    "url": "https://github.com/studentutu/Unity3D-NSubstitute"
   }
 }
